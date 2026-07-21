@@ -1,0 +1,164 @@
+{
+  "kitchen-modern-island": {
+    "src": "/works-photos/kitchen-modern-island.webp",
+    "width": 1125,
+    "height": 1215,
+    "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoNAA4ABABoJYwAAiDsnhD9jwAA/LSroi3kyt511Fm/JCfvKpRuZqIOCJGEwLGBiNroTqzPFBfzMbdql399RQAA"
+  },
+  "kitchen-white-oak-frame": {
+    "src": "/works-photos/kitchen-white-oak-frame.webp",
+    "width": 1125,
+    "height": 829,
+    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoOAAoABABoJZACdACeQ/b6UAAA/rU4fxo3FQmtUGbw9hYh7ZkNZH1tYY7j2ahnDzgLyeliq04+DeWEk8aODsvTJpC7AAAA"
+  },
+  "kitchen-window-bench": {
+    "src": "/works-photos/kitchen-window-bench.webp",
+    "width": 1125,
+    "height": 949,
+    "blurDataURL": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoOAAwABABoJYwCdADx1lwAAP5Vwlo9HP/6zW8IY3bc/eCebShXESBKvFj95IgA"
+  },
+  "kitchen-cream-walnut": {
+    "src": "/works-photos/kitchen-cream-walnut.webp",
+    "width": 1125,
+    "height": 1028,
+    "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoOAA0ABABoJYgCdAECmZ3bAAAA9iYUOWZHlkI7P59jWsX22h136q62O7H3e3xipG1kGcXXWm/Y1Hchf9sl+busuzoSSrkOdEQ9xcMff/IcgAAA"
+  },
+  "kitchen-white-gray": {
+    "src": "/works-photos/kitchen-white-gray.webp",
+    "width": 1125,
+    "height": 1758,
+    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoJAA4ABABoJYwAAlz6fiLMuAAA/eOChPKL8LpFeDwYBVtp8xIRShi4lMtowXjKdYzMPiwQa6fF5idoAAA="
+  },
+  "kitchen-shaker-wood": {
+    "src": "/works-photos/kitchen-shaker-wood.webp",
+    "width": 1059,
+    "height": 1542,
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoKAA4ABABoJQBOgBuwkQEXHcAA3iTBPrfyriOP1NTAJ3GcVi5kXogf28JeH8W6JOWWV4myF3Qlb35WFpEIITPkAAA="
+  },
+  "kitchen-u-shape": {
+    "src": "/works-photos/kitchen-u-shape.webp",
+    "width": 1125,
+    "height": 1125,
+    "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACQAQCdASoOAA4ABABoJQBOgBrVTgAA4d7SI2NkwCeouzDFYryjgblXzJzs0zFtL/sy6oP/Tw5ODNiGYCWZPfPnPGdBxL3So0AAAA=="
+  },
+  "drawer-organizer-oak": {
+    "src": "/works-photos/drawer-organizer-oak.webp",
+    "width": 1125,
+    "height": 1033,
+    "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoOAA0ABABoJYgCdH8ADR+wZYTAAMyd+i3cVVH9HGVzTtmT6xqChR/Aenk3RGbGZsAEAtVPKROMKayrh+cSDHrCVZH2OvZKhLKbgimrAFhr9w9ZHCYrXAAA"
+  },
+  "drawer-organizer-walnut": {
+    "src": "/works-photos/drawer-organizer-walnut.webp",
+    "width": 1125,
+    "height": 1707,
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoJAA4ABABoJYwCdAEUpUxdYYXAAOJ/pAu8QqYbGdJD9cJKeEzWQJKDZiblF2quXF3fZ1YaiQ9/JC8NKlaFnHIAAAA="
+  },
+  "wardrobe-vanity-led": {
+    "src": "/works-photos/wardrobe-vanity-led.webp",
+    "width": 1125,
+    "height": 1273,
+    "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoMAA4ABABoJYwCdADWqbuQ1QAA/cK8gb15Qdpdv2HVOBsYmVK1FYuHAnDpGSpPw371eaQw0cYKpuJZJqxdklbdjeAAAA=="
+  },
+  "wardrobe-vanity-white": {
+    "src": "/works-photos/wardrobe-vanity-white.webp",
+    "width": 1125,
+    "height": 1123,
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoOAA4ABABoJYwCdADDrmHlGgAA/rVnkK4uIsDd0jY237GVhY3h+GvYlYOZRzoEqEl7jYm+eDfGm0GW9nC2yMPviAA="
+  },
+  "wardrobe-mirror-gloss": {
+    "src": "/works-photos/wardrobe-mirror-gloss.webp",
+    "width": 1001,
+    "height": 2000,
+    "blurDataURL": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoHAA4ABABoJZwCdAD5gq9b4AD9/IKmFrXEF6iKSnrBDJGHbBgN4SoAAAA="
+  },
+  "wardrobe-classic-cream": {
+    "src": "/works-photos/wardrobe-classic-cream.webp",
+    "width": 1125,
+    "height": 992,
+    "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoOAAwABABoJYwCdAENk2YNULAAAP7BnXMQhAd8lR/aN825RrLPIiLOM7hiXS2XmJ3haXGQjPYP+IXIltFiyBzsvY4jeawIkFvJnyvAAAA="
+  },
+  "wardrobe-walnut-display": {
+    "src": "/works-photos/wardrobe-walnut-display.webp",
+    "width": 1125,
+    "height": 1302,
+    "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoMAA4ABABoJZQC7AELYRu7KMgA/r6Ctww10UBFAS9UudTnA9U4fcyw1bSk3DBLmyrB/Ws0qBRoyEcCAd2AAA=="
+  },
+  "wardrobe-sliding-walnut": {
+    "src": "/works-photos/wardrobe-sliding-walnut.webp",
+    "width": 1125,
+    "height": 1011,
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoOAA0ABABoJQBOgBxn9/lcAAD+wA0NaHVIF9UFiMXTfXrqjMkfpEN/DKOnN4M305ZqVsqZfBjBJqzEHxcoTdgYAAA="
+  },
+  "wardrobe-open-oak": {
+    "src": "/works-photos/wardrobe-open-oak.webp",
+    "width": 1125,
+    "height": 1604,
+    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoKAA4ABABoJQBOgBjK1dRvYAAA/mFQaP+hgwxvC6iLxKzJtOzDdAZqgs7cKpwqoMVu0c+5Q9pp2nt9YGNF7kCxGGfsCgAA"
+  },
+  "closet-organizer": {
+    "src": "/works-photos/closet-organizer.webp",
+    "width": 1125,
+    "height": 1555,
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAwAgCdASoKAA4ABABoJYwCdAELYKrFg1rwAADMnHW1cjW4uNRUDZj7OjsjwUuVdR3sez0CPFQtvkwnf6l6XN5Rmr+zxroAAAA="
+  },
+  "wardrobe-minimal-cream": {
+    "src": "/works-photos/wardrobe-minimal-cream.webp",
+    "width": 1125,
+    "height": 1449,
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoLAA4ABABoJYwCdAD1TZuvvwAA/qiBLwLiCFsoNORKMRnSSVNvCGDuZ4pBFpsyBJPJcW8AAAA="
+  },
+  "nightstand-white-wood": {
+    "src": "/works-photos/nightstand-white-wood.webp",
+    "width": 1125,
+    "height": 1457,
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoLAA4ABABoJZQCdADbpBfoIAAA4eZDAXx+H9AFF6LP1tAwkb83HIKfA5PiJVkIm/oMWPm1+ELEKsO4bzAiQv0EAAA="
+  },
+  "nightstand-oak": {
+    "src": "/works-photos/nightstand-oak.webp",
+    "width": 1125,
+    "height": 1552,
+    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoKAA4ABABoJZQCdADbIDH7QAD+1xmaP/uHNl+IsLuHV1DjKk7+uw1rYNsuk9Zkt/2xLfAle4232s0AAAA="
+  },
+  "nightstand-gray": {
+    "src": "/works-photos/nightstand-gray.webp",
+    "width": 1125,
+    "height": 1021,
+    "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoOAA0ABABoJZQCdADDmuNgvgAA/XdHy7GhANnfMRHbRF4OKDKgzsvAN0AXnOljUrvPLeOC9oMpWqHFuzAAAA=="
+  },
+  "nightstand-white": {
+    "src": "/works-photos/nightstand-white.webp",
+    "width": 1125,
+    "height": 1203,
+    "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoNAA4ABABoJZwAAuYymWcsAAD+1qGjx2OFbzvwx0lXkGJnBtumhGzOCvLjcorhUX4AAA=="
+  },
+  "coffee-nook-cane": {
+    "src": "/works-photos/coffee-nook-cane.webp",
+    "width": 1125,
+    "height": 1535,
+    "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAABQAgCdASoKAA4ABABoJZACdAERB/DUK1lTtqAA/myp2TqvisCUihhHI36qwC0tSvVgPQaw25XFyN84LYL6NNIX7ZEzWgUl0uQu2WqOgAA="
+  },
+  "coffee-bar-shelf": {
+    "src": "/works-photos/coffee-bar-shelf.webp",
+    "width": 1125,
+    "height": 1614,
+    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoKAA4ABABoJZACdADwgVFSQAAA/gQGr6VtLkk7DAXK5OvpuMJSa8yEuSpWi30PYEfhMUyz6azcxcZucOT4aVJFLbWtgAAA"
+  },
+  "coffee-bar-neo-black": {
+    "src": "/works-photos/coffee-bar-neo-black.webp",
+    "width": 1125,
+    "height": 825,
+    "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoOAAoABABoJZwAAtn1YReWwAD+lxJ74ESPEBYQnuqehm/2/FeN7Qn2YADtcNMlC0sw+M10eD9JKSHkdxQAAA=="
+  },
+  "coffee-bar-neo-cream": {
+    "src": "/works-photos/coffee-bar-neo-cream.webp",
+    "width": 1125,
+    "height": 1256,
+    "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwAgCdASoNAA4ABABoJZQC7AD0uI0jG6cmgAD+rxqnZuJr5bNLoBHYK6gpruDp7q9RkNI1oPpHoKOC6uWiV3uewH+4ecaqb9uRh95KA7wAAA=="
+  },
+  "coffee-bar-neo-niche": {
+    "src": "/works-photos/coffee-bar-neo-niche.webp",
+    "width": 1125,
+    "height": 1363,
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAwAgCdASoMAA4ABABoJYwCdAEWYUvgeQgMAAD6TR3VwmVMEvN6+Ly9ilrSsdsBZkhTRjw7ZKva9GBmduVnuO1GrEYmxh9dgAA="
+  }
+}

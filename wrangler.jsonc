@@ -1,0 +1,17 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "pooya-choob",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2026-07-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+  "vars": {
+    // Demo deployment: content is served from the built-in seed; admin writes
+    // are disabled until a real storage backend is connected.
+    // ADMIN_PASSWORD is provided as a Cloudflare secret (wrangler secret put).
+    "STORAGE_MODE": "readonly"
+  }
+}
