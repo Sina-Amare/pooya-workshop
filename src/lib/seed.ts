@@ -7,13 +7,6 @@ function photo(key: keyof typeof seedImages, alt: string): ImageRef {
   return { ...img, alt };
 }
 
-const legacy = (
-  src: string,
-  alt: string,
-  width = 1536,
-  height = 1024,
-): ImageRef => ({ src, alt, width, height });
-
 /**
  * Initial site content built from the owner's real work photos. It is shown
  * until the owner saves their first change from the admin panel, after which
@@ -32,7 +25,7 @@ export const seedContent: SiteContent = {
       "من پویا هستم؛ نجار. هر پروژه را از شناخت فضا و نیاز واقعی شما شروع می‌کنم و تا نصب نهایی، خودم کنار کار می‌مانم.",
     aboutBody:
       "در کارگاه من طراحی از روی کاتالوگ کپی نمی‌شود. ابعاد فضا، عادت‌های استفاده، نور و بودجه کنار هم قرار می‌گیرند تا چیزی ساخته شود که سال‌ها درست کار کند.\n\nاز انتخاب ورق و یراق تا برش، مونتاژ و نصب، همه مراحل زیر نظر خودم انجام می‌شود. نتیجه باید هم زیبا باشد، هم در استفاده روزمره دقیق و قابل اعتماد بماند.\n\nاگر برای آشپزخانه، اتاق خواب یا فضای کارتان به دنبال کاری تمیز و حساب‌شده هستید، عکس‌های نمونه‌کارها را ببینید و برای مشاوره تماس بگیرید.",
-    portrait: legacy("/demo/hero-workshop.webp", "پویا در کارگاه نجاری کنار میز کار"),
+    portrait: photo("portrait-pooya", "پویا در کارگاه نجاری، کنار درِ کابینت گردویی"),
     heroImage: photo("kitchen-cream-walnut", "کابینت آشپزخانه کرم و گردو با نور مخفی"),
     phone: "09123456789",
     whatsapp: "09123456789",

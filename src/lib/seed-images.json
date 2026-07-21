@@ -160,5 +160,11 @@
     "width": 1125,
     "height": 1363,
     "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAwAgCdASoMAA4ABABoJYwCdAEWYUvgeQgMAAD6TR3VwmVMEvN6+Ly9ilrSsdsBZkhTRjw7ZKva9GBmduVnuO1GrEYmxh9dgAA="
+  },
+  "portrait-pooya": {
+    "src": "/works-photos/portrait-pooya.webp",
+    "width": 1600,
+    "height": 2000,
+    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoLAA4ABABoJZgCdADhlcsx3eOHAAD+6KXR2HBhe0g6HI1sbh74J2GJk9ivyZ59jyRhGhYqfZO4RkdHKk3Oi4wcbgxfWaWei8Z80waJ9cxbvj16k5P1dmBRtvsEAAAA"
   }
 }

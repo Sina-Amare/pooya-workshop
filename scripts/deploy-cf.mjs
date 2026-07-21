@@ -2,14 +2,15 @@
 // Windows symlink fallback), patch the worker bundle, deploy with wrangler.
 // Usage: node scripts/deploy-cf.mjs
 import { execFileSync } from "node:child_process";
-import { createRequire } from "node:module";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const root = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
-const require = createRequire(import.meta.url);
 const cli = path.join(
-  path.dirname(require.resolve("@opennextjs/cloudflare/package.json")),
+  root,
+  "node_modules",
+  "@opennextjs",
+  "cloudflare",
   "dist",
   "cli",
   "index.js",

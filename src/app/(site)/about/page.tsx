@@ -7,8 +7,6 @@ import { getContent } from "@/lib/content";
 import { faNum } from "@/lib/fa";
 import { PRINCIPLES } from "@/lib/principles";
 
-export const revalidate = 300;
-
 export const metadata: Metadata = {
   title: "درباره من",
   description: "آشنایی با سازنده، سابقه کار و روش ساخت کابینت و مصنوعات چوبی سفارشی.",

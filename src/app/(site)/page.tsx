@@ -17,8 +17,6 @@ import { getContent, projectsInCategory } from "@/lib/content";
 import { faNum, phoneHref } from "@/lib/fa";
 import { PRINCIPLES } from "@/lib/principles";
 
-export const revalidate = 300;
-
 export default async function HomePage() {
   const content = await getContent();
   const { settings, categories, projects } = content;

@@ -8,7 +8,6 @@ import SectionHeading from "@/components/site/SectionHeading";
 import { findProject, getContent, projectsInCategory } from "@/lib/content";
 import { faNum } from "@/lib/fa";
 
-export const revalidate = 300;
 export const dynamicParams = true;
 
 export async function generateStaticParams() {

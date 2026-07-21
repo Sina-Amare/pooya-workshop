@@ -9,8 +9,6 @@ import {
 import { getContent } from "@/lib/content";
 import { formatPhone, phoneHref, whatsappHref } from "@/lib/fa";
 
-export const revalidate = 300;
-
 export const metadata: Metadata = {
   title: "تماس",
   description: "راه‌های تماس، ساعت پاسخ‌گویی و هماهنگی بازدید حضوری.",

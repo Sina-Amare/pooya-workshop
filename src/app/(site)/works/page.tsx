@@ -4,8 +4,6 @@ import ContactBand from "@/components/site/ContactBand";
 import WorksExplorer from "@/components/site/WorksExplorer";
 import { getContent } from "@/lib/content";
 
-export const revalidate = 300;
-
 export const metadata: Metadata = {
   title: "نمونه‌کارها",
   description:
